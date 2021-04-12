@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieDB</string>
+    <string name="home">Home</string>
+    <string name="popular">Popular</string>
+    <string name="favorite">Favorite</string>
+    <string name="account">Account</string>
+</resources>
